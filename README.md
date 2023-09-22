@@ -6,7 +6,7 @@
 
 ### 💞️ I’m looking to collaborate on Creating Websites
 
-###⚡ My technical skills are:
+### ⚡ My technical skills are:
 - Visual Basic
 - java
 - C++
